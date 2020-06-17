@@ -1,7 +1,8 @@
 # Write a speak_to_grandma method.
-speak_to_grandma == "I love you Grandma!".upcase
-  if "Hi Nana, how are you?"
-    puts "HUH?! SPEAK UP,SONNY!"
+speak_to_grandma == "I love you too pumpkin!".upcase
+  if "I love you grandma!".upcase
+    puts "I LOVE YOU TOO PUMPKIN!"
+  elsif ""
   end
 
 
